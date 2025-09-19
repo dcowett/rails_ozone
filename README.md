@@ -1,4 +1,11 @@
-# README
+RAILS OZONE APP
+
+this app looks up the current OZONE level by zip code.
+
+Copyright (c) 2025 David Cowett
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
